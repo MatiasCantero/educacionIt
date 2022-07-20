@@ -1,0 +1,24 @@
+hola 
+estoy guardando 
+datos o comentarios de 
+mi código.
+
+1. Instalación. Git
+
+2. Configuración de Git
+
+3. crear un repo de Git
+
+4. Comandos: 
+
+git init : inicia un proyecto git
+
+git add . : agrega al seguimiento
+
+git commit -m "Inicio Proyecto"
+
+5. Creamos un Repo en Github
+
+6. Agregamos un repo remoto con git remote add origin http://.....
+
+7. git push origin master
